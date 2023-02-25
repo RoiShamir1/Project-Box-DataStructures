@@ -1,0 +1,16 @@
+C:\Users\Roi Shamir\Desktop\ProjectBox\ProjectBox\bin\Debug\ProjectBox.exe.config
+C:\Users\Roi Shamir\Desktop\ProjectBox\ProjectBox\bin\Debug\ProjectBox.exe
+C:\Users\Roi Shamir\Desktop\ProjectBox\ProjectBox\bin\Debug\ProjectBox.pdb
+C:\Users\Roi Shamir\Desktop\ProjectBox\ProjectBox\obj\Debug\ProjectBox.csproj.AssemblyReference.cache
+C:\Users\Roi Shamir\Desktop\ProjectBox\ProjectBox\obj\Debug\ProjectBox.csproj.SuggestedBindingRedirects.cache
+C:\Users\Roi Shamir\Desktop\ProjectBox\ProjectBox\obj\Debug\ProjectBox.csproj.CoreCompileInputs.cache
+C:\Users\Roi Shamir\Desktop\ProjectBox\ProjectBox\obj\Debug\ProjectBox.exe
+C:\Users\Roi Shamir\Desktop\ProjectBox\ProjectBox\obj\Debug\ProjectBox.pdb
+C:\Users\Roi Shamir\Desktop\הגשות ופרויקטים\ProjectBox\ProjectBox\bin\Debug\ProjectBox.exe.config
+C:\Users\Roi Shamir\Desktop\הגשות ופרויקטים\ProjectBox\ProjectBox\bin\Debug\ProjectBox.exe
+C:\Users\Roi Shamir\Desktop\הגשות ופרויקטים\ProjectBox\ProjectBox\bin\Debug\ProjectBox.pdb
+C:\Users\Roi Shamir\Desktop\הגשות ופרויקטים\ProjectBox\ProjectBox\obj\Debug\ProjectBox.csproj.AssemblyReference.cache
+C:\Users\Roi Shamir\Desktop\הגשות ופרויקטים\ProjectBox\ProjectBox\obj\Debug\ProjectBox.csproj.SuggestedBindingRedirects.cache
+C:\Users\Roi Shamir\Desktop\הגשות ופרויקטים\ProjectBox\ProjectBox\obj\Debug\ProjectBox.csproj.CoreCompileInputs.cache
+C:\Users\Roi Shamir\Desktop\הגשות ופרויקטים\ProjectBox\ProjectBox\obj\Debug\ProjectBox.exe
+C:\Users\Roi Shamir\Desktop\הגשות ופרויקטים\ProjectBox\ProjectBox\obj\Debug\ProjectBox.pdb
